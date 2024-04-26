@@ -1,7 +1,7 @@
 #include <iostream>
 #include <limits>
 
-/* The purpose of this arithmetic copmutation is 
+/* The purpose of this arithmetic computation is 
  * to convert Feet to Meters using User Input. 
  * 
  * To do this we first have to assign a variable (float)
