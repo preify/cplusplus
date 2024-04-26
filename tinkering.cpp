@@ -4,9 +4,11 @@
 /* The purpose of this arithmetic computation is 
  * to convert Feet to Meters using User Input. 
  * 
- * To do this we first have to assign a variable (float)
- * this is the rate of feet in a meter. 
- */
+ * (1) Declare feet in 1 meter
+ * (2) Ask for user input
+ * (3) Check if user input is a valid data type
+ * (4) Multiply user input with fixed rate
+ */ 
 
 using namespace std;
 int main() {
